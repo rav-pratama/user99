@@ -14,7 +14,7 @@ $ python -m pip install cython
 
 $ python -m pip install rich
 
-$ git globe https://github.com/rav-pratama/user99
+$ git clone https://github.com/rav-pratama/user99
 
 $ cd user99
 

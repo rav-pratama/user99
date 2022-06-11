@@ -1,4 +1,4 @@
-# CARA INSTALL / BUKA TERMUX ANDA MASUKAN KODE DI BAWA INI
+# CARA INSTALL
 
 $ pkg update && pkg upgrade
 $ pkg install python git
